@@ -1,0 +1,5 @@
+INFO 2024-12-04 15:37:24,119 views 24592 28708 Login failed, password error: jasper@gmail.com
+INFO 2024-12-04 15:43:26,329 autoreload 14144 21812 Watching for file changes with StatReloader
+INFO 2024-12-04 15:44:03,591 basehttp 14144 21280 "POST /api/login/ HTTP/1.1" 200 495
+INFO 2024-12-04 15:45:34,922 views 27492 6596 Login successfully: jasper@gmail.com
+ERROR 2024-12-04 16:26:01,236 views 29052 25244 Login failed, password error: jasper@gmail.com
